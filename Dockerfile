@@ -1,5 +1,5 @@
 # https://hub.docker.com/r/adoptopenjdk/openjdk11
-FROM openjdk:17-alpine
+FROM amazoncorretto:11-alpine
 
 LABEL maintainer="s.baniya.np@gmail.com"
 
